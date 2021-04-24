@@ -15,6 +15,12 @@ export default function Header() {
               <a> Events </a>
             </Link>
           </li>
+
+          <li>
+            <Link href="/account/login">
+              <a> Login </a>
+            </Link>
+          </li>
         </ul>
       </nav>
     </header>
